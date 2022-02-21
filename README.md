@@ -8,6 +8,7 @@ I've going to try and keep the relationship between voltage and pitch that tradi
 
 ## Planned modules
 * Voltage controlled oscillator - square wave that doesn't require anything beyond a Raspberry Pi Pico. Should be able to get it to output some harmonics on different pins
+* Fancier voltage controlled oscillator - will be able to create a lot of waveforms (inc. wavetables?), but will require a DAC.
 * Passive mixer -- just potentiometers innit?
 * Button input - a way of pluggin buttons in and making them boing
 * Envelope generator
